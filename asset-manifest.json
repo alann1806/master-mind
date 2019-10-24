@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "://alann1806.github.io/master-mind/static/css/main.6b104ed3.chunk.css",
+    "main.js": "://alann1806.github.io/master-mind/static/js/main.2227b40a.chunk.js",
+    "main.js.map": "://alann1806.github.io/master-mind/static/js/main.2227b40a.chunk.js.map",
+    "runtime-main.js": "://alann1806.github.io/master-mind/static/js/runtime-main.fdf3498e.js",
+    "runtime-main.js.map": "://alann1806.github.io/master-mind/static/js/runtime-main.fdf3498e.js.map",
+    "static/js/2.236322fe.chunk.js": "://alann1806.github.io/master-mind/static/js/2.236322fe.chunk.js",
+    "static/js/2.236322fe.chunk.js.map": "://alann1806.github.io/master-mind/static/js/2.236322fe.chunk.js.map",
+    "index.html": "://alann1806.github.io/master-mind/index.html",
+    "precache-manifest.87ffba428ea3b7f623e9e5feca83fdb4.js": "://alann1806.github.io/master-mind/precache-manifest.87ffba428ea3b7f623e9e5feca83fdb4.js",
+    "service-worker.js": "://alann1806.github.io/master-mind/service-worker.js",
+    "static/css/main.6b104ed3.chunk.css.map": "://alann1806.github.io/master-mind/static/css/main.6b104ed3.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fdf3498e.js",
+    "static/js/2.236322fe.chunk.js",
+    "static/css/main.6b104ed3.chunk.css",
+    "static/js/main.2227b40a.chunk.js"
+  ]
+}
